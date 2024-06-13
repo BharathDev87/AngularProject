@@ -6,8 +6,7 @@ import { NewTaskComponent } from "./new-task/new-task.component";
 import { SharedModule } from "../shared/card/card.module";
 import { CommonModule, DatePipe } from "@angular/common";
 import { FormsModule } from "@angular/forms";
-
-
+//AA
 
 @NgModule({
   declarations: [ TasksComponent,
